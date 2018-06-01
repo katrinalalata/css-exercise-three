@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+  font-family: sans-serif;
+  font-size: 14px;
+=======
+body {
+  background-color: #333;
+  font-family: sans-serif;
+  font-size: 10px;
+>>>>>>> d69970e0214458347853f34cbf269e8c82b3e5e3
+}
+
+.container {
+  margin: 0 auto;
+  width: 420px;
+}
+
+nav {
+  margin: 0 auto;
+<<<<<<< HEAD
+  padding: 15px 15px 15px 15px;
+  position: fixed;
+  width: 420px;
+  background-color: #000000;
+=======
+  padding: 10px 0 15px 15px;
+  position: fixed;
+  width: 420px;
+>>>>>>> d69970e0214458347853f34cbf269e8c82b3e5e3
+}
+
+.restaurant-list {
+  padding-top: 50px;
+<<<<<<< HEAD
+  margin: 1%;
+  padding: 3%;
+  width: 100%;
+  background-color: #e8eaed;
+}
+
+.location {
+  background-color: #b2b4b7;
+}
+
+a:hover {
+  color:#000000;
+  text-decoration: none;
+  } /* mouse over */
+=======
+}
+>>>>>>> d69970e0214458347853f34cbf269e8c82b3e5e3
